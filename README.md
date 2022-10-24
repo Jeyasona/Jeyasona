@@ -1,4 +1,4 @@
- Hey there 👋 I'm Jeyasona
+ <h3>Jeyasona</h3>
  ### :key: Languages  
  <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -7,7 +7,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
  
  
- <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ 
  
  
  </div>
@@ -26,10 +26,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 
-:file_folder:Projects
+
 
 
 <!--
+:file_folder:Projects
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 Here are some ideas to get you started:
